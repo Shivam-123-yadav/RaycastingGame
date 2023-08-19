@@ -1,0 +1,68 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyAttributeOutsideInitInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyCallingNonCallableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyMethodMayBeStaticInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyNoneFunctionAssignmentInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E262" />
+          <option value="W292" />
+          <option value="E301" />
+          <option value="E265" />
+          <option value="W391" />
+          <option value="E111" />
+          <option value="E128" />
+          <option value="E114" />
+          <option value="E117" />
+          <option value="E302" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStatementEffectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.weapon" />
+          <option value="main.object_handler" />
+          <option value="main.sprite_object" />
+          <option value="main.raycasting" />
+          <option value="main.settings" />
+          <option value="main.RayCasting.update" />
+          <option value="main.ObjectHandler.update" />
+          <option value="main.Weapon.update" />
+          <option value="main.ObjectRenderer.draw" />
+          <option value="main.Weapon.draw" />
+          <option value="pygame.examples.grid.Player.single_fire_event" />
+          <option value="main.Player" />
+          <option value="main.RayCasting" />
+          <option value="main.FPS" />
+          <option value="PLAYER" />
+          <option value="player.math" />
+          <option value="player.pg" />
+          <option value="player.speed_cos" />
+          <option value="player.speed_sin" />
+          <option value="player.pLAYER_POS" />
+          <option value="player.pLAYER_SPEED" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnusedLocalInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
